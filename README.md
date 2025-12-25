@@ -4,8 +4,8 @@ A simple Logistic Regression + TF-IDF model to classify news text as REAL or FAK
 
 
 ## Setup
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-
