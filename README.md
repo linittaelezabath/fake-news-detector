@@ -126,6 +126,7 @@ Open in browser:
 http://127.0.0.1:8000/docs
 
 ### API Usage
+
 Endpoint
 POST /predict
 
@@ -141,6 +142,7 @@ Response
 }
 
 ## Run Tests
+
 pytest
 
 Tests Include:
@@ -196,4 +198,3 @@ Add confidence score in predictions
 Linitta Elezabath 
 B.Tech CSE (AI & ML)
 Graduating 2027
-
