@@ -67,7 +67,7 @@ title and text columns are merged into a single text field
 
 ### Installation
 1️, Clone the Repository
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/linittaelezabath/fake-news-detector.git
 cd fake-news-detector
 
 2️, Create a Virtual Environment (Recommended)
@@ -196,3 +196,4 @@ Add confidence score in predictions
 Linitta Elezabath 
 B.Tech CSE (AI & ML)
 Graduating 2027
+
