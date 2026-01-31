@@ -19,6 +19,7 @@ The project trains a text classification model to identify whether a news articl
 
 * Model persistence using joblib
 
+
 ### Project Structure
 .
 ├── data/
@@ -198,3 +199,4 @@ Add confidence score in predictions
 Linitta Elezabath 
 B.Tech CSE (AI & ML)
 Graduating 2027
+
